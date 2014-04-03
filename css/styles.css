@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.navbar {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.section-nav{
+    margin-top: -10px;
+    margin-bottom: -10px;
+    border-bottom: 1px solid #D0D0D0;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.slogan p{
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 21px;
+    height: 20px;
+    color: #999;    
+}
+.row{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+h4.panel-title > a{
+    font-family: Arial;
+    font-size: 14px;
+}
+.container{
+    margin: : 0;
+    padding: 0;
+
+}
+.page-header{
+    margin-top: 0;
+    
+}
+.panel-body{
+    padding-top: 0;
+}
+.featuredImg{
+    margin-bottom: 15px;
+}
